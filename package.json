@@ -1,11 +1,14 @@
 {
   "name": "grecorder.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
-  "main": "./main/recorder.js",
+  "main": "./main/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lamejs": "^1.2.0"
+  }
 }
